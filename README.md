@@ -60,7 +60,6 @@ Seleccionar un cliente y visualizar las recomendaciones personalizadas.
 
 El sistema fue desplegado en Streamlit Cloud, configurando Python 3.10 y dependencias optimizadas (pandas, numpy, scikit-learn, streamlit).
 La aplicación puede ejecutarse localmente con:
-## Cómo ejecutar localmente
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
