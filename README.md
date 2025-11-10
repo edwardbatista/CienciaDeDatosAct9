@@ -3,7 +3,6 @@
 - `app.py`: interfaz de usuario (Streamlit)
 - `recommender.py`: clase con el pipeline del recomendador
 - `requirements.txt`: dependencias
-- `Retail_Transactions_Dataset.csv`: dataset
 
 ## Cómo ejecutar localmente
 ```bash
